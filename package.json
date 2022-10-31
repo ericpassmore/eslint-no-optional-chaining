@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-no-optional-chaining",
+  "version": "1.0.0",
+  "description": "ESLint plugin to flag optional chaining. for people that want es2020 rules, and want to warn on optional chaining.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpassmore/eslint-no-optional-chaining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpassmore/eslint-no-optional-chaining/issues"
+  },
+  "homepage": "https://github.com/ericpassmore/eslint-no-optional-chaining#readme"
+}
